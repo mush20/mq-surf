@@ -1,0 +1,17 @@
+/Users/mush/Documents/development/dotnet/Mq.Surf/Mq.Host/bin/Debug/netcoreapp2.2/Mq.Host.deps.json
+/Users/mush/Documents/development/dotnet/Mq.Surf/Mq.Host/bin/Debug/netcoreapp2.2/Mq.Host.runtimeconfig.json
+/Users/mush/Documents/development/dotnet/Mq.Surf/Mq.Host/bin/Debug/netcoreapp2.2/Mq.Host.runtimeconfig.dev.json
+/Users/mush/Documents/development/dotnet/Mq.Surf/Mq.Host/bin/Debug/netcoreapp2.2/Mq.Host.dll
+/Users/mush/Documents/development/dotnet/Mq.Surf/Mq.Host/bin/Debug/netcoreapp2.2/Mq.Host.pdb
+/Users/mush/Documents/development/dotnet/Mq.Surf/Mq.Host/obj/Debug/netcoreapp2.2/Mq.Host.csprojAssemblyReference.cache
+/Users/mush/Documents/development/dotnet/Mq.Surf/Mq.Host/obj/Debug/netcoreapp2.2/Mq.Host.csproj.CoreCompileInputs.cache
+/Users/mush/Documents/development/dotnet/Mq.Surf/Mq.Host/obj/Debug/netcoreapp2.2/Mq.Host.RazorAssemblyInfo.cache
+/Users/mush/Documents/development/dotnet/Mq.Surf/Mq.Host/obj/Debug/netcoreapp2.2/Mq.Host.RazorAssemblyInfo.cs
+/Users/mush/Documents/development/dotnet/Mq.Surf/Mq.Host/obj/Debug/netcoreapp2.2/Mq.Host.AssemblyInfoInputs.cache
+/Users/mush/Documents/development/dotnet/Mq.Surf/Mq.Host/obj/Debug/netcoreapp2.2/Mq.Host.AssemblyInfo.cs
+/Users/mush/Documents/development/dotnet/Mq.Surf/Mq.Host/obj/Debug/netcoreapp2.2/Mq.Host.RazorTargetAssemblyInfo.cache
+/Users/mush/Documents/development/dotnet/Mq.Surf/Mq.Host/obj/Debug/netcoreapp2.2/Mq.Host.dll
+/Users/mush/Documents/development/dotnet/Mq.Surf/Mq.Host/obj/Debug/netcoreapp2.2/Mq.Host.pdb
+/Users/mush/Documents/development/dotnet/Mq.Surf/Mq.Host/bin/Debug/netcoreapp2.2/Mq.Shared.dll
+/Users/mush/Documents/development/dotnet/Mq.Surf/Mq.Host/bin/Debug/netcoreapp2.2/Mq.Shared.pdb
+/Users/mush/Documents/development/dotnet/Mq.Surf/Mq.Host/obj/Debug/netcoreapp2.2/Mq.Host.csproj.CopyComplete

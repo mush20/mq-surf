@@ -1,0 +1,21 @@
+FROM microsoft/dotnet:sdk AS build
+WORKDIR /Mq.Shared
+COPY ./Mq.Shared/ ./
+RUN dotnet restore
+
+WORKDIR /app
+
+  # Copy csproj and restore as distinct layers
+COPY ./Mq.Host/*.csproj ./
+RUN dotnet restore
+
+  # Copy everything else and build
+COPY ./Mq.Host/ ./
+RUN dotnet publish -c Debug -o out
+
+  # Build runtime image
+FROM microsoft/dotnet:aspnetcore-runtime
+EXPOSE 5050
+WORKDIR /app
+COPY --from=build /app/out .
+ENTRYPOINT ["dotnet", "Mq.Host.dll"]

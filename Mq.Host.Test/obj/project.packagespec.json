@@ -1,0 +1,72 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/mush/Documents/development/dotnet/Mq.Surf/Mq.Host.Test/Mq.Host.Test.csproj",
+    "projectName": "Mq.Host.Test",
+    "projectPath": "/Users/mush/Documents/development/dotnet/Mq.Surf/Mq.Host.Test/Mq.Host.Test.csproj",
+    "outputPath": "/Users/mush/Documents/development/dotnet/Mq.Surf/Mq.Host.Test/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "/Users/mush/Documents/development/dotnet/Mq.Surf/Mq.Host/Mq.Host.csproj": {
+            "projectPath": "/Users/mush/Documents/development/dotnet/Mq.Surf/Mq.Host/Mq.Host.csproj"
+          },
+          "/Users/mush/Documents/development/dotnet/Mq.Surf/Mq.Shared/Mq.Shared.csproj": {
+            "projectPath": "/Users/mush/Documents/development/dotnet/Mq.Surf/Mq.Shared/Mq.Shared.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.AspNetCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[15.9.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Moq": {
+          "target": "Package",
+          "version": "[4.10.1, )"
+        },
+        "NUnit3TestAdapter": {
+          "target": "Package",
+          "version": "[3.11.0, )"
+        },
+        "nunit": {
+          "target": "Package",
+          "version": "[3.11.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

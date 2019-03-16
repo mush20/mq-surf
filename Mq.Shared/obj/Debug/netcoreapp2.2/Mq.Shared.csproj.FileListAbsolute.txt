@@ -1,0 +1,9 @@
+/Users/mush/Documents/development/dotnet/Mq.Surf/Mq.Shared/bin/Debug/netcoreapp2.2/Mq.Shared.deps.json
+/Users/mush/Documents/development/dotnet/Mq.Surf/Mq.Shared/bin/Debug/netcoreapp2.2/Mq.Shared.dll
+/Users/mush/Documents/development/dotnet/Mq.Surf/Mq.Shared/bin/Debug/netcoreapp2.2/Mq.Shared.pdb
+/Users/mush/Documents/development/dotnet/Mq.Surf/Mq.Shared/obj/Debug/netcoreapp2.2/Mq.Shared.csprojAssemblyReference.cache
+/Users/mush/Documents/development/dotnet/Mq.Surf/Mq.Shared/obj/Debug/netcoreapp2.2/Mq.Shared.csproj.CoreCompileInputs.cache
+/Users/mush/Documents/development/dotnet/Mq.Surf/Mq.Shared/obj/Debug/netcoreapp2.2/Mq.Shared.AssemblyInfoInputs.cache
+/Users/mush/Documents/development/dotnet/Mq.Surf/Mq.Shared/obj/Debug/netcoreapp2.2/Mq.Shared.AssemblyInfo.cs
+/Users/mush/Documents/development/dotnet/Mq.Surf/Mq.Shared/obj/Debug/netcoreapp2.2/Mq.Shared.dll
+/Users/mush/Documents/development/dotnet/Mq.Surf/Mq.Shared/obj/Debug/netcoreapp2.2/Mq.Shared.pdb
