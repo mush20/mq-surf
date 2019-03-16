@@ -2,7 +2,7 @@
 
 ### Start Redis MQ Server
 `
-docker-compose up
+docker-compose up`
 
 ### Run Mq.Host
 on terminal
@@ -13,7 +13,7 @@ on terminal
 on another terminal
 
 `cd Mq.Client && dotnet run`
-` 
+
 
 ### Create new Product via message
 `
